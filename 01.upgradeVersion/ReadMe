@@ -1,6 +1,8 @@
-Repo: https://github.com/fifteenhex/xradio
-Commit id: 33f4b1c25eff0d9db7cbac19f36b130da9857f37
-
+-------------------- How to update new commit id for buildroot ----------------
+Example
+        Repo: https://github.com/fifteenhex/xradio
+        Commit id: 33f4b1c25eff0d9db7cbac19f36b130da9857f37
+---------------------------------------------------------------------------------
 Step1:
   Donwload https://github.com/fifteenhex/xradio/archive/33f4b1c25eff0d9db7cbac19f36b130da9857f37/xr819-xradio-33f4b1c25eff0d9db7cbac19f36b130da9857f37.tar.gz
 
